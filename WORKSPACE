@@ -2,7 +2,7 @@ workspace(name = "skeleton")
 
 BAZEL_VERSION = "4.0.0"
 BAZEL_INSTALLER_VERSION_linux_SHA = "bd7a3a583a18640f58308c26e654239d412adaa833b6b6a7b57a216ab62fabc2"
-BAZEL_INSTALLER_VERSION_darwin_SHA = "b4c94148f52854b89cff5de38a9eeeb4b0bcb3fb3a027330c46c468d9ea0898b"
+BAZEL_INSTALLER_VERSION_darwin_SHA = "b26b39bc316363a9dad1677c413164b393ff4293eb1dd112eefe5ae32ee40c0b"
 
 load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 
